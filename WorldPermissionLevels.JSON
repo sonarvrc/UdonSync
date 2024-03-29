@@ -1,6 +1,6 @@
 {
     "WorldPermissionLevels": {
-        "Admin": [],
+        "Admin": [Llamahat],
         "DJ": [],
         "Dancers": [],
         "VJ/LD/FX/VM": [],
