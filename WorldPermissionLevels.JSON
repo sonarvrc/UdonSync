@@ -1,6 +1,6 @@
 {
     "WorldPermissionLevels": {
-        "Admin": ["Llamahat"],
+        "Admin": ["Llamahat", "subdefense", "MontyIO", "Arkui"],
         "DJ": [],
         "Dancers": [],
         "VJ/LD/FX/VM": [],
