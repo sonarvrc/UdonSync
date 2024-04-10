@@ -1,11 +1,38 @@
 {
-    "WorldPermissionLevels": {
-        "Staff": ["Llamahat", "subdefense", "MontyIO", "Arkui"],
-        "DJ": [],
-        "Visuals": [],
-        "Dancers": [],
-        "Media": [],
-        "Supporters": [],
-        "Friends": []
-    }
+	"WorldPermissionLevels":
+	{
+		"Staff":
+		[
+			"Llamahat",
+			"subdefense",
+			"MontyIO",
+			"Arkui"
+		],
+		"DJ":
+		[
+		],
+		"Visuals":
+		[
+		],
+		"Dancers":
+		[
+		],
+		"Media":
+		[
+		],
+		"Supporters":
+		[
+		],
+		"Friends":
+		[
+			"Veter",
+			"daneTGF",
+			"xenia__",
+			"barror1",
+			"flutmutt"
+		]
+	},
+	"WorldSettings":
+	{
+	}
 }
