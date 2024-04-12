@@ -1,38 +1,63 @@
 {
 	"WorldPermissionLevels":
 	{
-		"Staff":
+		"Admin":
 		[
 			"Llamahat",
 			"subdefense",
 			"MontyIO",
 			"Arkui"
 		],
+		"Staff":
+		[
+			"barror1",
+			"flutmutt"
+		],
 		"DJ":
 		[
+			"MontyIO",
+			"subdefense",
+			"Arkui"
 		],
 		"Visuals":
 		[
+			"Llamahat",
+			"subdefense",
+			"MontyIO",
+			"Arkui"
 		],
 		"Dancers":
 		[
+			"magictwin"
 		],
 		"Media":
 		[
+			"Glitch The Fox",
+			"Regar512"
 		],
 		"Supporters":
 		[
+			"Anonym2077"
 		],
 		"Friends":
 		[
 			"Veter",
 			"daneTGF",
-			"xenia__",
-			"barror1",
-			"flutmutt"
+			"xenia__"
 		]
 	},
 	"WorldSettings":
 	{
+		"isOpen": false,
+		"isMultiInstance": false,
+		"isDMX": false,
+		"Stage": 0,
+		"Event Name": "Act 0 Launch",
+		"Event Lineup":
+		[
+			"MontyIO",
+			"arkui",
+			"Miron"
+		]
 	}
 }
